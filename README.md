@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1FG37sc1hvYDNEIIvAezlM&ust=1716016601147000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCa9ZGSlIYDFQAAAAAdAAAAABAZ" alt="Girl in a jacket" width="500" height="600">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1FG37sc1hvYDNEIIvAezlM&ust=1716016601147000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCa9ZGSlIYDFQAAAAAdAAAAABAZ"  width="500" height="600">
 - 🌱 I’m currently learning **Problem Solving Skills , Frameworks etc.**
 
 - 💬 Ask me about **C++,HTML,CSS,Wordpress,Javascript,Data Structures etc.**
